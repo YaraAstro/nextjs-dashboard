@@ -123,3 +123,7 @@ Go from beginner to expert by learning the foundations of Next.js and building a
 
 * Chapter 17 - [**Next Steps**](https://nextjs.org/learn/dashboard-app/next-steps)
     *Continue exploring Next.js*
+
+## Learn SEO
+
+If you’re curious about how SEO can boost your Next.js site’s performance, you’re in the right place! The Next.js SEO guide offers a clear and concise introduction to the essentials of search engine optimization. It’s perfect for those looking to understand how SEO works and how to apply it effectively in a Next.js environment. Explore the guide at [Next.js SEO Guide](https://nextjs.org/learn-pages-router/seo/introduction-to-seo) and start optimizing your site today!
